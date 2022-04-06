@@ -1,0 +1,174 @@
+body{
+    font-family: 'Roboto';
+}
+
+.hero{
+    background-color: #1F2937;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 25px;
+}
+
+.quote-sec{
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    border-radius: 25px;
+
+}
+
+.quote{
+    max-width: 700px;
+    border-radius: 25px;
+
+}
+
+.author{
+    align-self: flex-end;
+    max-width: 700px;
+    padding-right: 400px;
+    padding-top: 10px;
+    border-radius: 25px;
+
+}
+
+.last_meg,button{
+    background-color: #3882F6;
+    border-radius: 25px;
+
+}
+ 
+.hero-text{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 10px;
+    border-radius: 25px;
+
+}
+
+.hero-second, a{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 10px;
+    border-radius: 25px;
+
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    border-radius: 25px;
+
+}
+
+.info-header{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    border-radius: 25px;
+
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    border-radius: 25px;
+
+}
+
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+
+}
+
+.subflex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 25px;
+
+}
+
+.hero-total{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+
+}
+
+.hero-info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    width: 300px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 25px;
+
+}
+.sign-up{
+    flex-basis: auto;
+    flex-shrink: 3;
+    max-width: 80px;
+    border-radius: 25px;
+
+}
+
+.hero-image{
+    width: 300px;
+    border: 10px solid #E5E7EB;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 25px;
+
+}
+
+.middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin: 15px;
+    padding: 40px;
+    border-radius: 25px;
+
+}
+.op{
+    max-width: 100px;
+    border-radius: 25px;
+
+}
+
+.img-info{
+    width: 180px;
+    height: auto;
+    border-radius: 10px;
+    border-color: #3882F6;
+    border-style: solid;
+    border: 10px;
+}
+
+.last_meg{
+    display: flex;
+    /* text-align: center; */
+    justify-content:space-evenly;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 25px;
+
+}
+
+.l{
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+
+}
